@@ -1,3 +1,7 @@
+body {
+  font-family: "Barlow Condensed", sans-serif !important;
+}
+
 #main-bg {
   background: url("./img/pizza.jpg");
   background-position: center;
